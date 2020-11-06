@@ -32,3 +32,5 @@ let vm = new Vue({
 }).$mount('#app')
 
 export default vm;
+
+console.log(124323434)
