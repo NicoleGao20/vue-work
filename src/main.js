@@ -32,3 +32,6 @@ let vm = new Vue({
 }).$mount('#app')
 
 export default vm;
+
+
+console.log('2020 11 26')
