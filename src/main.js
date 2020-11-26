@@ -32,3 +32,6 @@ let vm = new Vue({
 }).$mount('#app')
 
 export default vm;
+
+var ccc = '你好'
+console.log(ccc)
