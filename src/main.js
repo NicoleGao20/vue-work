@@ -33,7 +33,10 @@ let vm = new Vue({
 
 export default vm;
 
+var ccc = '你好'
+console.log(ccc)
 console.log(124323434)
 console.log('上海伯俊')
 
 console.log('2020 11 26')
+console.log('加班了了。。。。。。呀呀呀。。。。')
