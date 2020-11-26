@@ -35,3 +35,5 @@ export default vm;
 
 console.log(124323434)
 console.log('上海伯俊')
+
+console.log('2020 11 26')
