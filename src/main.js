@@ -35,3 +35,5 @@ export default vm;
 
 var ccc = '你好'
 console.log(ccc)
+console.log(124323434)
+console.log('上海伯俊')
